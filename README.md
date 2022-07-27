@@ -1,6 +1,20 @@
-# Sample Hardhat Project
+# Pablo Wabo Contract Repository
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This project contains the contracts deployed for the Pablo Wabo MEME token.
+
+## Contracts
+
+PabloWabo.sol in contracts folder.
+
+## Symbol
+
+WABO
+
+## Contract Address
+
+0xdbb18c0a2b8a41e40587923bd1abed37c11c22fc
+
+## Usage
 
 Try running some of the following tasks:
 
